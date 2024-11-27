@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 export default function Hero() {
-  const letters = "talentlessDeveloper".split("");
+  const letters = "talentfullDeveloper".split("");
 
   return (
     <section className="h-screen flex items-center justify-center">
